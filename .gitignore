@@ -1,3 +1,5 @@
 memo.md
 env_file.env
 .env
+csv/
+*.csv
